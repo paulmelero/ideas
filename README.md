@@ -23,7 +23,8 @@
 
 ## APIs
 
-- [ ] Odds API. `/api/1/10/-3`: translated into `1*10^-3` things that you have those odds to happen to you.
+- [x] Odds API. `/api/1/10/-3`: translated into `1*10^-3` things that you have those odds to happen to you.
+   - Example: https://odds-api.graficos-net.workers.dev // https://odds-api.graficos-net.workers.dev/1/5 (I ommitted the 10 and moved the exponent to the first param)
 
 ## Activities
 
