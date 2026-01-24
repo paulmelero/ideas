@@ -2,7 +2,17 @@
 
 > Some publicly shared app ideas
 
-## apps
+## Techniques
+
+- [ ] Brushes
+
+- [ ] Attractors
+
+## Blog posts
+
+- [ ] Lorenz Equations series of blog posts
+
+## Apps
 
 - ~[ ] Make https://templates.netlify.com/ dynamic and filterable.~
 
