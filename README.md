@@ -4,9 +4,9 @@
 
 ## Techniques
 
-- [ ] Brushes
+- [ ] Brushes (SVG + CSS)
 
-- [ ] Attractors
+- [ ] Attractors (Vector-based focal point predictors)
 
 ## Blog posts
 
@@ -30,6 +30,10 @@
 
 - [ ] ~ChronoSport. An app with configurable chronometers for working out. I usually miss the ability to set milestones in a timer so I get notified at specific times.~
    - Found a respetable app that does mostly what I wanted! https://secuso.aifb.kit.edu/Intervalltimer_und_Zirkeltraining.php
+
+## Libraries
+
+- [ ] MathVue. See https://bsky.app/profile/gnet.click/post/3mdxswu7cv22p
 
 ## APIs
 
