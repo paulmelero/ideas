@@ -24,7 +24,8 @@
 
 - [ ] An app that creates apps that create apps, for money of course. Keep adding levels.
 
-- [ ] "vault", safe password management for freelance clients.
+- ~[ ] "vault", safe password management for freelance clients.~
+  - Not very original, other services provide this better than what I would do. Also, I don't need this anymore.
 
 - [ ] Crops calendar, and seasonal vegetables. Location-based. I'm sure there are similar apps out there. Ability to create your own crops and their seasons.
 
@@ -39,6 +40,7 @@
 
 - [x] Odds API. `/api/1/10/-3`: translated into `1*10^-3` things that you have those odds to happen to you.
    - Example: https://odds-api.graficos-net.workers.dev // https://odds-api.graficos-net.workers.dev/1/5 (I ommitted the 10 and moved the exponent to the first param)
+   - Update: I moved it into [its own domain!](https://woddsup.com/)
 
 ## Activities
 
